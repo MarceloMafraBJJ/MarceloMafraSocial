@@ -5,7 +5,9 @@ This project was developed in
   - CSS
 
 ## 💻 Project
-The project consists of creating a social networking link site
+The project consists of creating a social networking link site.
+
+link: https://marcelomafrabjj.github.io/MarceloMafraSocial/
 
 ![social](https://user-images.githubusercontent.com/84472778/180664647-b9f74b93-3ad2-4778-99a8-d24bdcec93d5.png)
 
